@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** [7/8/2026]
+**Effective Date:** 9/8/2026
 
-This privacy policy applies to the "30 Days of Python" mobile application (hereby referred to as "Application") created by [HAWA DAHIR] (hereby referred to as "Service Provider") as an Ad-Supported app. This service is intended for use "AS IS".
+This privacy policy applies to the "30 Days of Python" mobile application (hereby referred to as "Application") created by HAWA DAHIR (hereby referred to as "Service Provider") as an Ad-Supported app. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
@@ -34,4 +34,4 @@ These Services do not address anyone under the age of 13. The Service Provider d
 The Service Provider may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. The Service Provider will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact the Service Provider at: **[khadharahmed91@gmail.com]**
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact the Service Provider at: **khadharahmed91@gmail.com**
